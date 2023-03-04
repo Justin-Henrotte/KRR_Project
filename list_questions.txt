@@ -1,0 +1,7 @@
+List of questions :
+- Do we need to create an "Access Point" (API) for an online access or just a local access in localhost is sufficient ?
+- Is our ERD complete enough (see file `ERD_krr.svg`) ?
+  Are you ok with that or do you want another format (maybe more relational) ?
+- What are your advise for the set up of the database and how to make requests ?
+  What tools and technologies do you advise us ? Python with Rdflib or Java with Apache Jena ?
+  In the previous years, what were the most popular tools used for the project among the students ?
